@@ -1,0 +1,6 @@
+nvidia-dali-cuda120==1.35.0
+opencv-python==4.10.0.84
+scikit-image==0.24.0
+tensorboardX==2.6.2.2
+scikit-video==1.1.11
+diffusers==0.19.0
