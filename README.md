@@ -116,7 +116,7 @@ pip install -r requirements.txt
 
 ## 2. Prepare Dataset:
 
-Download our processed datasets from [Google drive]() or [Baidu disk](). Then put the downloaded datasets into the folder `data/` as
+Download our processed datasets from [Google drive](https://drive.google.com/file/d/1ytcmaj_Niv_EVMH10EKLTiUhODIlb2r9/view?usp=sharing),  [Baidu disk](https://pan.baidu.com/s/13rxgKvVXvZo3L2O6KvOmQg?pwd=13zp), or [NJU box](https://box.nju.edu.cn/f/17444f0a06ee4a9ba19c/). Then put the downloaded datasets into the folder `data/` as
 
 ```sh
   |--data
@@ -129,8 +129,6 @@ Download our processed datasets from [Google drive]() or [Baidu disk](). Then pu
 &nbsp;
 
 ## 3. Testing:
-
-You can directly download our pre-trained models from [Google drive]() or [Baidu disk](). Then put the downloaded models into the folder `pretrained/` and run
 
 ```sh
 python test.py 
