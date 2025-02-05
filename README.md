@@ -100,7 +100,9 @@ conda install pytorch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 pytorch-cuda=
 pip install -U openmim
 mim install mmcv==2.1.0
 mim install mmengine==0.10.4
-mim install mmagic==1.2.0 
+mim install mmagic==1.2.0
+pip install diffusers==0.19.0
+pip install huggingface_hub==0.25.2
 
 NOTE：If there are any issues with installing the open-mmlab packages, please refer to
  · https://github.com/open-mmlab/mmcv
